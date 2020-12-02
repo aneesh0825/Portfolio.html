@@ -1,0 +1,30 @@
+h1{color:aqua}
+h2{
+    color:black;
+    text-align: center;
+}
+p{
+    color:blue;
+    text-align: center;
+}
+
+/*{border:solid}
+*/
+.header{
+    background-color:#9b4d4d;
+    display:flex;
+    justify-content: space-between;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+    background-color: #3d3885;
+}
+body{
+    background-color:#808080;
+}
